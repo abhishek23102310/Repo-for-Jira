@@ -1,0 +1,12 @@
+1. Python is a interpreter language(runs line by line) the most famous interpreter is CPython.
+   But it have some compiled properties also   example when we run .py file so first it compiled it into byte
+   code(low lever representation and platform independent). The byte code than excecuted by PVM(python 
+   virtual machine).
+
+2.   Attributes in Python
+      Global--> variables are public and can be acessed by anywhere.
+      Protected--> attributes are marked with a single underscore(eg: _sara). while they can still be acessed 
+                and modified outside of a class.
+     Private --> marked by double underscore(eg: __sara) and not modified and acessed outside the class.
+
+3. 
